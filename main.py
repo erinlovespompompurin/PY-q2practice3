@@ -1,6 +1,6 @@
 from pyscript import document, display
 
-def checkNum(e) :
+def checkList(e) :
 
     num_bers= ["7", "8", "10", "19", "90"]
 
